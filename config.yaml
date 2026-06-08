@@ -1,1 +1,5 @@
+database:
+  host: db.internal.local
 
+credentials:
+  password: secret123
